@@ -1,9 +1,9 @@
 # Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+Course Files for Complete Python 3 Bootcamp Course
 
-Copyright(©) by Pierian Data Inc.
+Copyright(©) by Quantum Root.
 
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+Browse our courses at
+https://www.quantumroot.in
 
 Thanks!
